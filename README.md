@@ -1,99 +1,31 @@
-<!-- Premium GitHub Profile README by Alonezdb (Nico) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Nico, IT System Technician at voestalpine AG, Austria">
+</picture>
 
-<div align="center">
-  <!-- Large Terminal CMD window at the top -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/terminal.svg?v=5" width="800" alt="Terminal" />
-</div>
+I keep enterprise infrastructure running at scale and build small tools that take repetitive work off the table.
 
-<div align="center">
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
-</div>
-<!-- Tech Stack Section -->
-<div align="center">
-  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 25px;">ENGINEERING STACK</h3>
-  
-  <!-- High-quality transparent brand icons with cache-busters -->
-  <img src="https://cdn.simpleicons.org/openjdk/f89820?v=5" width="48" height="48" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776ab?v=5" width="48" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/f7df1e?v=5" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61dafb?v=5" width="48" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dotnet/512bd4?v=5" width="48" height="48" alt="C#" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599c?v=5" width="48" height="48" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ed?v=5" width="48" height="48" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/fcc624?v=5" width="48" height="48" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/f05032?v=5" width="48" height="48" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/4285f4?v=5" width="48" height="48" alt="Antigravity IDE" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spotify/1db954?v=5" width="48" height="48" alt="Spotify" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/discord/5865f2?v=5" width="48" height="48" alt="Discord" />
-</div>
-<div align="center">
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
-</div>
-<!-- Projects Showcase -->
-<div align="center">
-  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">FEATURED PROJECTS</h3>
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/projects.svg?v=5" width="800" alt="Project Cards" />
-</div>
-<div align="center">
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
-</div>
-<!-- Statistics & Languages -->
-<div align="center">
-  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', 'Segoe UI', sans-serif; font-weight: 700; color: #ffffff; letter-spacing: -0.02em; margin-bottom: 20px;">ANALYTICS &amp; METRICS</h3>
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/metrics.svg?v=5" width="800" alt="GitHub Profile Metrics" />
-</div>
-<div align="center">
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
-</div>
-<!-- Live Spotify & Snake Grid -->
-<table width="800" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr style="border: none;">
-    <!-- Spotify Live Card -->
-    <td width="420" valign="top" style="border: none; padding: 10px;">
-      <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', sans-serif; font-weight: 700; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-top: 0; margin-bottom: 15px;">SPOTIFY LIVE STATUS</h4>
-      <div align="center">
-        <!-- Vercel Deployment Link (Replace 'assets/spotify.svg' with 'https://your-vercel-project.vercel.app/api/spotify' for instant updates) -->
-        <a href="https://open.spotify.com" target="_blank" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/spotify.svg?v=5" width="400" alt="Spotify status" />
-        </a>
-      </div>
-    </td>
-    <td width="20" style="border: none;"></td>
-    <!-- Contribution Snake -->
-    <td width="360" valign="top" style="border: none; padding: 10px;">
-      <h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Outfit', sans-serif; font-weight: 700; color: #e4e4e7; font-size: 13px; letter-spacing: 0.05em; margin-top: 0; margin-bottom: 15px;">CONTRIBUTION GRAPH</h4>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/github-contribution-grid-snake-dark.svg?v=5" width="330" alt="Contribution Snake" />
-      </div>
-    </td>
-  </tr>
-</table>
+## Focus
 
-<br/>
+| Area | What I work on |
+| :--- | :--- |
+| **Enterprise IT operations** | Day-to-day operation of company-wide systems for 6,000+ users |
+| **Infrastructure** | Virtualization and network infrastructure |
+| **Software development** | Desktop utilities, web tooling and automation, with Claude in the workflow |
 
-<!-- Social Contacts -->
-<div align="center">
-  <a href="https://discord.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Discord-zdb.-%235865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord Badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Alonezdb" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Alonezdb-%23181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Badge" />
-  </a>
-</div>
+## Stack
 
-<br/>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-24292f?style=flat-square&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-24292f?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white) |
+| **Tooling** | ![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-24292f?style=flat-square&logo=claude&logoColor=white) |
 
-<div align="center">
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/divider.svg?v=5" width="800" alt="Divider" />
-  
-  <br/>
-  
-  <!-- Footer Signature -->
-  <img src="https://raw.githubusercontent.com/Alonezdb/Alonezdb/main/assets/footer.svg?v=5" width="800" alt="Footer Signature" />
-</div>
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
+  <img src="assets/contributions-light.svg" alt="Contribution calendar for the last year">
+</picture>
