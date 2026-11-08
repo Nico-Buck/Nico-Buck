@@ -3,7 +3,7 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 
-const LOGIN = 'Alonezdb';
+const LOGIN = process.env.GITHUB_REPOSITORY_OWNER ?? 'Nico-Buck';
 const OUT_DIR = 'assets';
 const MIN_WEEKS = 26;
 
